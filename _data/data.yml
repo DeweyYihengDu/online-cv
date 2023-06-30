@@ -84,8 +84,8 @@ education:
         details: 
         Collaborative education program between Shandong University and Australian National University
         Got the HD in the following courses:
-          - MATH3353: Advanced Mathematical Bioinformatics
-          - STAT6038: Regression Modelling
+          - MATH3353 - Advanced Mathematical Bioinformatics
+          - STAT6038 - Regression Modelling
         
       - degree: Master of Quantitative Biology and Bioinformatics
         university: Australian National University
@@ -184,7 +184,7 @@ education:
 projects:
     title: Projects
     intro: >
-      Motivated and dedicated research professional with a strong background in microbiology and bioinformatics. 
+      Motivated and dedicated research professional with a background in microbiology and bioinformatics. 
       Experienced in conducting diverse projects at Shandong University, specializing in microbiological experiments, 
       bioinformatics research on wine flavor, bioinformatics in cancer studies, and microbial genome prediction in PVC superphylum habitats.
     assignments:
@@ -194,8 +194,7 @@ projects:
 
       - title: Wine Flavor Bioinformatics Study
         link: "#"
-        tagline: "The project is published in the journal Food Chemistry. 
-        Currently in the review stage."
+        tagline: "The project is published in the journal Food Chemistry. Currently in the review stage."
 
       - title: Bioinformatics in Cancer Research
         link: "https://www.biorxiv.org/content/10.1101/2023.06.25.546472v1"
@@ -207,27 +206,26 @@ projects:
 
       - title: Creat the method to build the phylogenetic tree with the pathway
         link: "https://www.biorxiv.org/content/10.1101/2023.06.27.546232v1"
-        tagline: "Heat maps and phylogenetic trees were constructed from the KEGG database. 
-                  The input data requires only the taxonomic name of the bacteria."
+        tagline: "Heat maps and phylogenetic trees were constructed from the KEGG database. The input data requires only the taxonomic name of the bacteria."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
@@ -235,43 +233,58 @@ publications:
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
+    Orchid: 0000-0001-9627-3393
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      Y.-H. Du and J.-H. Mu, “Metabolic-Pathway-Presence-Heatmap (MPPH):Constructing phylogenetic trees based on metabolic pathways.,” Jun. 2023
+        doi: https://doi.org/10.1101/2023.06.27.546232.
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      Y.-H. Du, “Development and validation of NAD+ metabolism-related gene signature in prognosis prediction of hepatocellular carcinoma,” Jun. 2023
+        doi: https://doi.org/10.1101/2023.06.25.546472.
+
+      Z. Yu, Y. Jia, Y.-H. Du, Z.-J. Du, and D.-S. Mu, “Description and genome analysis of Actobacterium tashihtau gen. nov., sp. nov., a noval Denitrifying and Carbon-fixing bacterium isolated from marine sediment,” May 2022
+        doi: https://doi.org/10.21203/rs.3.rs-1633326/v1.
+
+      S. Shen et al., “Analyzing and mapping the research status, hotspots, and frontiers of biological wound dressings An in-depth data-driven assessment,” International Journal of Pharmaceutics, vol. 629, p. 122385, Dec. 2022
+        doi: https://doi.org/10.1016/j.ijpharm.2022.122385.
+      Y.-H. Du, “Commentary Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer A Commentary on Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer,” Front. Oncol, vol. 13, no. 1159828, Jul. 2023
+        doi: https://doi.org/10.3389/fonc.2023.1159828.
+      # - title: The Art of Computer Programming
+      #   link: "#"
+      #   authors: Donald E. Knuth
+      #   conference: Addison-Wesley, 1968
+
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      #   link: "#"
+      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      # - title: A syntax directed compiler for Algol 60
+      #   link: "#"
+      #   authors: Edgar T. Irons
+      #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 98%
+        level: 90%
 
       - name: R
-        level: 98%
+        level: 90%
 
       - name: Linux
         level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 25%
 
-      - name: Ruby on Rails
-        level: 85%
+      # - name: Ruby on Rails
+      #   level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      # - name: Sketch & Photoshop
+      #   level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
