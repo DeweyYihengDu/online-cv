@@ -273,6 +273,9 @@ skills:
 
       - name: Linux
         level: 50%
+        
+      - name: Matlab
+        level: 50%
 
       - name: HTML5 & CSS
         level: 25%
