@@ -233,19 +233,19 @@ publications:
     ORCID: 0000-0001-9627-3393
     papers:
 
-      Y.-H. Du and J.-H. Mu, “Metabolic-Pathway-Presence-Heatmap (MPPH):Constructing phylogenetic trees based on metabolic pathways.,” Jun. 2023
-        doi: https://doi.org/10.1101/2023.06.27.546232.
+      Title: Y.-H. Du and J.-H. Mu, “Metabolic-Pathway-Presence-Heatmap (MPPH):Constructing phylogenetic trees based on metabolic pathways.,” Jun. 2023
+      link: https://doi.org/10.1101/2023.06.27.546232.
 
-      Y.-H. Du, “Development and validation of NAD+ metabolism-related gene signature in prognosis prediction of hepatocellular carcinoma,” Jun. 2023
-        doi: https://doi.org/10.1101/2023.06.25.546472.
+      Title: Y.-H. Du, “Development and validation of NAD+ metabolism-related gene signature in prognosis prediction of hepatocellular carcinoma,” Jun. 2023
+      link: https://doi.org/10.1101/2023.06.25.546472.
 
-      Z. Yu, Y. Jia, Y.-H. Du, Z.-J. Du, and D.-S. Mu, “Description and genome analysis of Actobacterium tashihtau gen. nov., sp. nov., a noval Denitrifying and Carbon-fixing bacterium isolated from marine sediment,” May 2022
-        doi: https://doi.org/10.21203/rs.3.rs-1633326/v1.
+      Title: Z. Yu, Y. Jia, Y.-H. Du, Z.-J. Du, and D.-S. Mu, “Description and genome analysis of Actobacterium tashihtau gen. nov., sp. nov., a noval Denitrifying and Carbon-fixing bacterium isolated from marine sediment,” May 2022
+      link: https://doi.org/10.21203/rs.3.rs-1633326/v1.
 
-      S. Shen et al., “Analyzing and mapping the research status, hotspots, and frontiers of biological wound dressings An in-depth data-driven assessment,” International Journal of Pharmaceutics, vol. 629, p. 122385, Dec. 2022
-        doi: https://doi.org/10.1016/j.ijpharm.2022.122385.
-      Y.-H. Du, “Commentary Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer A Commentary on Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer,” Front. Oncol, vol. 13, no. 1159828, Jul. 2023
-        doi: https://doi.org/10.3389/fonc.2023.1159828.
+      Title: S. Shen et al., “Analyzing and mapping the research status, hotspots, and frontiers of biological wound dressings An in-depth data-driven assessment,” International Journal of Pharmaceutics, vol. 629, p. 122385, Dec. 2022
+      link: https://doi.org/10.1016/j.ijpharm.2022.122385.
+      Title: Y.-H. Du, “Commentary Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer A Commentary on Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer,” Front. Oncol, vol. 13, no. 1159828, Jul. 2023
+      link: https://doi.org/10.3389/fonc.2023.1159828.
       # - title: The Art of Computer Programming
       #   link: "#"
       #   authors: Donald E. Knuth
