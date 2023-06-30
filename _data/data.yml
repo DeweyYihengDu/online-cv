@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: u7457260@anu.edu.au
-    phone: 0469314204
+    phone: +61 04693 14204
     timezone: Australia/Canberra Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
@@ -68,6 +68,7 @@ education:
       - degree: Bachelor of Biology
         university: Shandong University
         time: 2019 - 2023
+        GPA: 84.5/100
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,10 +80,17 @@ education:
       - degree: Bachelor of Quantitative Biology and Bioinformatics
         university: Australian National University
         time: 2022 - 2023
-        details: Collaborative education program between Shandong University and Australian National University
+        GPA: 5.8-6.0/7
+        details: 
+        Collaborative education program between Shandong University and Australian National University
+        Got the HD in the following courses:
+          - MATH3353: Advanced Mathematical Bioinformatics
+          - STAT6038: Regression Modelling
+        
       - degree: Master of Quantitative Biology and Bioinformatics
         university: Australian National University
-        time: 2023-
+        time: 2023-now
+        GPA: 6.33/7
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -180,9 +188,9 @@ projects:
       Experienced in conducting diverse projects at Shandong University, specializing in microbiological experiments, 
       bioinformatics research on wine flavor, bioinformatics in cancer studies, and microbial genome prediction in PVC superphylum habitats.
     assignments:
-      - title: Velocity
+      - title: Microbiological Experiment
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Investigated the effects of different environmental factors on microbial growth and metabolism, analyzing the results using statistical methods."
 
       - title: DevStudio
         link: "#"
@@ -245,14 +253,14 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: R
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Linux
+        level: 50%
 
       - name: HTML5 & CSS
         level: 95%
