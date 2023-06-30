@@ -192,9 +192,10 @@ projects:
         link: "#hook"
         tagline: "Investigated the effects of different environmental factors on microbial growth and metabolism, analyzing the results using statistical methods."
 
-      - title: DevStudio
+      - title: Wine Flavor Bioinformatics Study
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "The project is published in the journal Food Chemistry. 
+        Currently in the review stage."
 
       - title: Tempo
         link: "#"
