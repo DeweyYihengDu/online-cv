@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: u7457260@anu.edu.au
-    phone: +61 04693 14204
+    phone: 0469314204
     timezone: Australia/Canberra Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
@@ -81,11 +81,8 @@ education:
         university: Australian National University
         time: 2022 - 2023
         GPA: 5.8-6.0/7
-        details: 
-        Collaborative education program between Shandong University and Australian National University
-        Got the HD in the following courses:
-          - MATH3353 - Advanced Mathematical Bioinformatics
-          - STAT6038 - Regression Modelling
+        details: Collaborative education program between Shandong University and Australian National University
+        Got the HD in the following courses: MATH3353 - Advanced Mathematical Bioinformatics AND STAT6038 - Regression Modelling
         
       - degree: Master of Quantitative Biology and Bioinformatics
         university: Australian National University
