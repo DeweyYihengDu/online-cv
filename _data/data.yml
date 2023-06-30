@@ -201,13 +201,13 @@ projects:
         link: "https://www.biorxiv.org/content/10.1101/2023.06.25.546472v1"
         tagline: "Examined genomic data from cancer patients to identify genetic mutations, gene expression patterns, and potential therapeutic targets."
 
-      - title: Atom
+      - title: PVC Superphylum Microbial Genomics (In progress)
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      # - title: Delta
+      #   link: "#"
+      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
