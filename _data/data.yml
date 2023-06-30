@@ -205,9 +205,10 @@ projects:
         link: "#"
         tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
 
-      # - title: Delta
-      #   link: "#"
-      #   tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Creat the method to build the phylogenetic tree with the pathway
+        link: "https://www.biorxiv.org/content/10.1101/2023.06.27.546232v1"
+        tagline: "Heat maps and phylogenetic trees were constructed from the KEGG database. 
+                  The input data requires only the taxonomic name of the bacteria."
 
 oss:
     title: OSS Contributions
