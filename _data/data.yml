@@ -182,14 +182,14 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
     ORCID: 0000-0001-9627-3393
     papers:
 
-      -  Title: Y.-H. Du and J.-H. Mu, “Metabolic-Pathway-Presence-Heatmap (MPPH):Constructing phylogenetic trees based on metabolic pathways.,” Jun. 2023
+      - Title: Y.-H. Du and J.-H. Mu, “Metabolic-Pathway-Presence-Heatmap (MPPH):Constructing phylogenetic trees based on metabolic pathways.,” Jun. 2023
         link: https://doi.org/10.1101/2023.06.27.546232.
 
       - Title: Y.-H. Du, “Development and validation of NAD+ metabolism-related gene signature in prognosis prediction of hepatocellular carcinoma,” Jun. 2023
