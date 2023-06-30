@@ -197,9 +197,9 @@ projects:
         tagline: "The project is published in the journal Food Chemistry. 
         Currently in the review stage."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Bioinformatics in Cancer Research
+        link: "https://www.biorxiv.org/content/10.1101/2023.06.25.546472v1"
+        tagline: "Examined genomic data from cancer patients to identify genetic mutations, gene expression patterns, and potential therapeutic targets."
 
       - title: Atom
         link: "#"
