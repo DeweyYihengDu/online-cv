@@ -137,11 +137,11 @@ projects:
       bioinformatics research on wine flavor, bioinformatics in cancer studies, and microbial genome prediction in PVC superphylum habitats.
     assignments:
       - title: Microbiological Experiment
-        link: "#hook"
+        link: "https://www.researchsquare.com/article/rs-1633326/v1"
         tagline: "Investigated the effects of different environmental factors on microbial growth and metabolism, analyzing the results using statistical methods."
 
       - title: Wine Flavor Bioinformatics Study
-        link: "#"
+        # link: "#"
         tagline: "The project is published in the journal Food Chemistry. Currently in the review stage."
 
       - title: Bioinformatics in Cancer Research
@@ -149,7 +149,7 @@ projects:
         tagline: "Examined genomic data from cancer patients to identify genetic mutations, gene expression patterns, and potential therapeutic targets."
 
       - title: PVC Superphylum Microbial Genomics (In progress)
-        link: "#"
+        # link: "#"
         tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
 
       - title: Creat the method to build the phylogenetic tree with the pathway
@@ -199,7 +199,7 @@ publications:
         authors: S. Shen, L. Deng, Y.-H. Du et al.
 
       - title: “Commentary Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer A Commentary on Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer,” Front. Oncol, vol. 13, no. 1159828, Jul. 2023
-        link: "https://doi.org/10.3389/fonc.2023.1159828"
+        link: "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1159828/full"
         authors: Y.-H. Du
       # - title: The Art of Computer Programming
       #   link: "#"
