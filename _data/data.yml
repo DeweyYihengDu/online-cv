@@ -109,8 +109,8 @@ certifications:
           # credentialid: 111-222
           # credentialurl: www.google.com
           # credentialname: Google
-          # details: |
-          #   The GPA is 84.5/100.
+          details: |
+            The GPA is 84.5/100.
         - name: Bachelor of Quantitative Biology and Bioinformatics
           start: 2022
           end: 2023
@@ -119,15 +119,15 @@ certifications:
           # credentialurl: www.github.com
           # credentialname: Github
           
-          # details: |
-          #   During my academic journey, I maintained a GPA ranging from 5.8 to 6.0 out of 7. 
-          #   I had the privilege of participating in a collaborative education program between Shandong University and the Australian National University, which provided me with a diverse and enriching learning experience. Recognizing my academic achievements, I was honored to receive the Dean's International Science Excellence Scholarship. Furthermore, I excelled in the courses MATH3353 - Advanced Mathematical Bioinformatics and STAT6038 - Regression Modelling, earning a High Distinction (HD) in both subjects. These accomplishments reflect my dedication to academic excellence and my ability to excel in challenging coursework.
+          details: |
+            During my academic journey, the GPA is 6/7. 
+            I had the privilege of participating in a collaborative education program between Shandong University and the Australian National University, which provided me with a diverse and enriching learning experience. Recognizing my academic achievements, I was honored to receive the Dean's International Science Excellence Scholarship. Furthermore, I excelled in the courses MATH3353 - Advanced Mathematical Bioinformatics and STAT6038 - Regression Modelling, earning a High Distinction (HD) in both subjects. These accomplishments reflect my dedication to academic excellence and my ability to excel in challenging coursework.
         - name: Master of Quantitative Biology and Bioinformatics
           start: 2023
           end: 
           organization: Australian National University
-          # details: |
-          #   The GPA is 6.33/7. 
+          details: |
+            Until now, the GPA is 6.5/7. 
         
 projects:
     title: Projects
