@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: u7457260@anu.edu.au
+    email: yiheng.du@anu.edu.au
     phone: 0469314204
     timezone: Australia/Canberra Timezone
     citizenship:
@@ -132,7 +132,7 @@ certifications:
           end: 
           organization: Australian National University
           details: |
-            Until now, the GPA is 6.5/7. 
+            Until now, my GPA is 6.5/7. 
         
 projects:
     title: Projects
