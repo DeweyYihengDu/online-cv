@@ -229,16 +229,16 @@ skills:
 
     toolset:
       - name: Python
-        level: 90%
+        level: 91%
 
       - name: R
-        level: 90%
+        level: 86%
 
       - name: Linux
         level: 50%
 
       - name: Matlab
-        level: 50%
+        level: 30%
 
       - name: HTML5 & CSS
         level: 25%
