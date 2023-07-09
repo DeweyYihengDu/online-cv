@@ -184,9 +184,13 @@ publications:
     title: Publications
     intro: |
       Only can be found on the internet, not including the papers in the review stage.
-      ORCID: 0000-0001-9627-3393
+      **ORCID: 0000-0001-9627-3393**
     
     papers:
+
+      - title: “Commentary Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer A Commentary on Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer,” Front. Oncol, vol. 13, no. 1159828, Jul. 2023
+        link: "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1159828/full"
+        authors: Y.-H. Du
 
       - title: “Metabolic-Pathway-Presence-Heatmap (MPPH):Constructing phylogenetic trees based on metabolic pathways.,” Jun. 2023
         link: "https://doi.org/10.1101/2023.06.27.546232"
@@ -204,9 +208,7 @@ publications:
         link: "https://www.sciencedirect.com/science/article/pii/S0378517322009401?via%3Dihub"
         authors: S. Shen, L. Deng, Y.-H. Du et al.
 
-      - title: “Commentary Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer A Commentary on Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer,” Front. Oncol, vol. 13, no. 1159828, Jul. 2023
-        link: "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1159828/full"
-        authors: Y.-H. Du
+
       # - title: The Art of Computer Programming
       #   link: "#"
       #   authors: Donald E. Knuth
