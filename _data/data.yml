@@ -154,7 +154,7 @@ projects:
         tagline: "Examined genomic data from cancer patients to identify genetic mutations, gene expression patterns, and potential therapeutic targets."
 
       - title: PVC Superphylum Microbial Genomics (In progress)
-        # link: "#"
+        link: "https://github.com/DeweyYihengDu/PVC"
         tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
 
       - title: Creat the method to build the phylogenetic tree with the pathway
