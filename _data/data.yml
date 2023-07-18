@@ -156,7 +156,7 @@ projects:
         link: "https://github.com/DeweyYihengDu/PVC"
         tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
 
-      - title: Build the method to build the phylogenetic tree with the pathway
+      - title: Create the method to build the phylogenetic tree with the pathway
         link: "https://www.biorxiv.org/content/10.1101/2023.06.27.546232v1"
         tagline: "Heat maps and phylogenetic trees were constructed from the KEGG database. The input data requires only the taxonomic name of the bacteria."
 
@@ -183,6 +183,7 @@ publications:
     title: Publications
     intro: |
       Only can be found on the internet, not including the papers in the review stage.
+      
       [**ORCID: 0000-0001-9627-3393**](https://orcid.org/0000-0001-9627-3393)
     
     papers:
