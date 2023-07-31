@@ -140,6 +140,18 @@ projects:
       Experienced in conducting diverse projects at Shandong University, specializing in microbiological experiments, 
       bioinformatics research on wine flavor, bioinformatics in cancer studies, and microbial genome prediction in PVC superphylum habitats.
     assignments:
+      - title: Investigating the Impact of Antibiotics on Environmental Microbiota Through Machine Learning (In progress)
+        tagline: "By analyzing data, developing predictive models, 
+        and identifying influential factors in antibiotic-microbe interactions, 
+        this research will contribute valuable insights to enhance antibiotic management practices and safeguard environmental health. 
+        The project's multidimensional approach spans data acquisition, 
+        machine learning, feature analysis, and metagenomic processing, 
+        culminating in a comprehensive assessment of antibiotic impacts on the microbial ecosystem."
+
+      - title: PVC Superphylum Microbial Genomics (In progress)
+        link: "https://github.com/DeweyYihengDu/PVC"
+        tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
+
       - title: Microbiological Experiment
         link: "https://www.researchsquare.com/article/rs-1633326/v1"
         tagline: "Investigated the effects of different environmental factors on microbial growth and metabolism, analyzing the results using statistical methods."
@@ -151,10 +163,6 @@ projects:
       - title: Bioinformatics in Cancer Research
         link: "https://www.biorxiv.org/content/10.1101/2023.06.25.546472v1"
         tagline: "Examined genomic data from cancer patients to identify genetic mutations, gene expression patterns, and potential therapeutic targets."
-
-      - title: PVC Superphylum Microbial Genomics (In progress)
-        link: "https://github.com/DeweyYihengDu/PVC"
-        tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
 
       - title: Create the method to build the phylogenetic tree with the pathway
         link: "https://www.biorxiv.org/content/10.1101/2023.06.27.546232v1"
