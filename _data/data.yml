@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yiheng Du (Dewey)
-    tagline: Master of Quantitative Biology and Bioinformatics
+    name: Wenkai Yang (Kairon)
+    tagline: Master of Quantum technology
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: yiheng.du@anu.edu.au
-    phone: 0469314204
+    email: wenkai.yang@anu.edu.au
+    phone: 0451606249
     timezone: Australia/Canberra Timezone
     citizenship:
     # website: blog.webjeda.com #do not add http://
     # linkedin: alandoe
     # xing: alandoe
-    github: DeweyYihengDu
+    github: Pre-hunter
     # telegram: # add your nickname without '@' sign
     # gitlab:
     # bitbucket:
@@ -65,10 +65,10 @@ sidebar:
 education:
     title: Education
     info:
-      - degree: Bachelor of Biology
+      - degree: Bachelor of Physics
         university: Shandong University
         time: 2019 - 2023
-        GPA: 84.5/100
+        GPA: 83.58/100
         # details: |
         #   Describe your study here lorem ipsum dolor sit amet, consectetuer
         #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,16 +79,15 @@ education:
         #     - Bullet point
       - degree: Bachelor of Science
         university: Australian National University
-        time: 2022 - 2023
-        GPA: 5.8-6.0/7
+        time: 2019 - 2023
+        GPA: 6.25/7
         details: Collaborative education program between Shandong University and Australian National University
-        awards: Dean’s International Science Excellence Scholarship
-        Got the HD in the following courses: MATH3353 - Advanced Mathematical Bioinformatics AND STAT6038 - Regression Modelling
+        awards: Dean's International Science Excellence Scholarship
+        Got the HD in the following courses: PHYS3103 - Advanced Statistical Mechanics , COMP6730 - Programing For scientists AND PHYS6701 Rapid Prototyping
         
-      - degree: Master of Quantitative Biology and Bioinformatics
+      - degree: Master of Quantum technology
         university: Australian National University
         time: 2023-now
-        GPA: 6.33/7
         # details: |
         #   Describe your study here lorem ipsum dolor sit amet, consectetuer
         #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -102,7 +101,7 @@ education:
 certifications:
       title: Education
       list:
-        - name: Bachelor of Biology
+        - name: Bachelor of Physics
           start: 2019
           end: 2023
           organization: Shandong University
@@ -110,9 +109,9 @@ certifications:
           # credentialurl: www.google.com
           # credentialname: Google
           details: |
-            The GPA is 84.7/100.
+            The GPA is 83.58/100.
         - name: Bachelor of Science
-          start: 2022
+          start: 2019
           end: 2023
           organization: Australian National University
           # credentialid: 111-222
@@ -120,7 +119,7 @@ certifications:
           # credentialname: Github
           
           details: |
-            During my academic journey, the GPA is **6/7**. 
+            During my academic journey, the GPA is **6.25/7**. 
             I had the privilege of participating in a collaborative education program between Shandong University and the Australian National University, 
             which provided me with a diverse and enriching learning experience. 
             And I was honored to receive the **Dean's International Science Excellence Scholarship**. 
