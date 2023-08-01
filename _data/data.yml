@@ -120,141 +120,43 @@ certifications:
           
           details: |
             During my academic journey, the GPA is **6.25/7**. 
-            I had the privilege of participating in a collaborative education program between Shandong University and the Australian National University, 
-            which provided me with a diverse and enriching learning experience. 
-            And I was honored to receive the **Dean's International Science Excellence Scholarship**. 
-            Furthermore, I excelled in the courses MATH3353 - **Advanced Mathematical Bioinformatics**,COMP6730 - **Programming for Scientists**,and STAT6038 - **Regression Modelling**, earning the HD in these subjects. 
-            These accomplishments reflect my dedication to academic excellence and my ability to excel in challenging coursework.
-        - name: Master of Quantitative Biology and Bioinformatics
+            That was my pleasure to participate in a collaborative education program between Shandong University and the Australian National University.
+            In the same time, that was my honore to receive the **Dean's International Science Excellence Scholarship**. 
+            During the study work, I excelled in PHYS3103 - **Advanced Statistical Mechanics**,COMP6730 - **Programming for Scientists**,and PHYS6701 - **Rapid Prototyping**, and earned the HD level with these courses. 
+            These academic accomplishments are a testament to my academic abilities and academic pursuits.
+        - name: Master of Quantum technology
           start: 2023
           end: 
           organization: Australian National University
-          details: |
-            Until now, the GPA is **6.5/7**. 
-        
+
 projects:
     title: Projects
     intro: >
-      Motivated and dedicated research professional with a background in microbiology and bioinformatics. 
-      Experienced in conducting diverse projects at Shandong University, specializing in microbiological experiments, 
-      bioinformatics research on wine flavor, bioinformatics in cancer studies, and microbial genome prediction in PVC superphylum habitats.
-    assignments:
-      - title: Investigating the Impact of Antibiotics on Environmental Microbiota Through Machine Learning (In progress)
-        tagline: "By analyzing data, developing predictive models, 
-        and identifying influential factors in antibiotic-microbe interactions, 
-        this research will contribute valuable insights to enhance antibiotic management practices and safeguard environmental health. 
-        The project's multidimensional approach spans data acquisition, 
-        machine learning, feature analysis, and metagenomic processing, 
-        culminating in a comprehensive assessment of antibiotic impacts on the microbial ecosystem."
-
-      - title: PVC Superphylum Microbial Genomics (In progress)
-        link: "https://github.com/DeweyYihengDu/PVC"
-        tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
-
-      - title: Microbiological Experiment
-        link: "https://www.researchsquare.com/article/rs-1633326/v1"
-        tagline: "Investigated the effects of different environmental factors on microbial growth and metabolism, analyzing the results using statistical methods."
-
-      - title: Wine Flavor Bioinformatics Study
-        # link: "#"
-        tagline: "The project is published in the journal Food Chemistry. Currently in the review stage."
-
-      - title: Bioinformatics in Cancer Research
-        link: "https://www.biorxiv.org/content/10.1101/2023.06.25.546472v1"
-        tagline: "Examined genomic data from cancer patients to identify genetic mutations, gene expression patterns, and potential therapeutic targets."
-
-      - title: Create the method to build the phylogenetic tree with the pathway
-        link: "https://www.biorxiv.org/content/10.1101/2023.06.27.546232v1"
-        tagline: "Heat maps and phylogenetic trees were constructed from the KEGG database. The input data requires only the taxonomic name of the bacteria."
-
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      Only can be found on the internet, not including the papers in the review stage.
+      A researcher in material simulation.
+      Used CST software to Simulate metasurface. 
+      Had 1 year lab experience.
       
-      [**ORCID: 0000-0001-9627-3393**](https://orcid.org/0000-0001-9627-3393)
-
-      [**Google Scholar Yiheng Du**](https://scholar.google.com/citations?user=2Ov4X7sAAAAJ&hl=en)
-    
-    papers:
-
-      - title: “Commentary Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer A Commentary on Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer,” Front. Oncol, vol. 13, no. 1159828, Jul. 2023
-        link: "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1159828/full"
-        authors: Y.-H. Du
-
-      - title: “Metabolic-Pathway-Presence-Heatmap (MPPH):Constructing phylogenetic trees based on metabolic pathways.,” Jun. 2023
-        link: "https://doi.org/10.1101/2023.06.27.546232"
-        authors: Y.-H. Du and J.-H. Mu
-
-      - title: “Development and validation of NAD(+) metabolism-related gene signature in prognosis prediction of hepatocellular carcinoma,” Jun. 2023
-        link: "https://doi.org/10.1101/2023.06.25.546472"
-        authors: Y.-H. Du
-
-      - title: “Description and genome analysis of Actobacterium tashihtau gen. nov., sp. nov., a noval Denitrifying and Carbon-fixing bacterium isolated from marine sediment,” May 2022
-        link: "https://doi.org/10.21203/rs.3.rs-1633326/v1"
-        authors: Z. Yu, Y. Jia, Y.-H. Du, Z.-J. Du, and D.-S. Mu
-
-      - title: “Analyzing and mapping the research status, hotspots, and frontiers of biological wound dressings An in-depth data-driven assessment,” International Journal of Pharmaceutics, vol. 629, p. 122385, Dec. 2022
-        link: "https://www.sciencedirect.com/science/article/pii/S0378517322009401?via%3Dihub"
-        authors: S. Shen, L. Deng, Y.-H. Du et al.
-
-      - title: “Psychromarinibacter sediminicola sp. nov., a novel salt-tolerant, metabolically diverse bacterium isolated from a solar saltern sediment, and comparison between members of family Roseobacteraceae,” May 2023
-        link: "https://doi.org/10.21203/rs.3.rs-2898458/v1"
-        authors: Y.-H. Wang, J.-C. Liu, Y.-H. Du, J.-H. Xu, Z.-J. Du, and M.-Q. Ye
-
-      # - title: The Art of Computer Programming
-      #   link: "#"
-      #   authors: Donald E. Knuth
-      #   conference: Addison-Wesley, 1968
-
-      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      #   link: "#"
-      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      # - title: A syntax directed compiler for Algol 60
-      #   link: "#"
-      #   authors: Edgar T. Irons
-      #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 91%
 
-      - name: R
-        level: 86%
 
-      - name: Linux
-        level: 50%
+      - name: CST
+        level: 56%
+
+      - name: COMSOL
+        level: 20%
 
       - name: Matlab
-        level: 30%
+        level: 83%
 
-      - name: HTML5 & CSS
-        level: 25%
-
+      - name: Python
+        level: 76%
+        
+      - name: Latex
+        level: 23%
       # - name: Ruby on Rails
       #   level: 85%
 
