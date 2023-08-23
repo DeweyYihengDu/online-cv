@@ -141,6 +141,7 @@ projects:
       bioinformatics research on wine flavor, bioinformatics in cancer studies, and microbial genome prediction in PVC superphylum habitats.
     assignments:
       - title: Investigating the Impact of Antibiotics on Environmental Microbiota Through Machine Learning (In progress)
+        link: "https://github.com/DeweyYihengDu/ML_soil_bacteria"
         tagline: "By analyzing data, developing predictive models, 
         and identifying influential factors in antibiotic-microbe interactions, 
         this research will contribute valuable insights to enhance antibiotic management practices and safeguard environmental health. 
