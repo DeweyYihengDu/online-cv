@@ -177,6 +177,17 @@ publications:
     My recent Westlake University research assistant work also includes two new
     bioRxiv preprints.
   papers:
+    - title: Detection of Somatic Point Mutations Directly from Spatial Transcriptomics Enables in vivo Spatiotemporal Lineage Tracing
+      link: https://doi.org/10.1101/2026.02.04.703493
+      authors: Z. Yang, M. Yao, Q. Yang, Y. Du, J. Lu, X. Wu, J. Lin, Z. Qian, S. Hu, Y. Xia, et al.
+      conference: bioRxiv. 2026.02.04.703493.
+      tag: bioRxiv preprint
+
+    - title: "PhyloSOLID: Robust phylogeny reconstruction from single-cell data despite inherent error and sparsity"
+      authors: Q. Yang, Y. Liu, J. Yang, X. Wu, Z. Yang, Y. Xia, Y. Zheng, J. Lu, M. Yao, Y. Du
+      conference: bioRxiv preprint. 2026.
+      tag: bioRxiv preprint
+
     - title: "Ligand-based prediction of anti-bacterial compounds: Overcoming class imbalance in molecular data"
       link: https://doi.org/10.1016/j.compbiolchem.2025.108778
       authors: Y.-H. Du, K. A. Ahmed, H. S. Mondal, and M. Z. Hossain
