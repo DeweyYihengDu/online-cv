@@ -1,5 +1,6 @@
 {% assign profile = site.data.data.career-profile %}
 {% if profile %}
+{% assign publication_count = site.data.data.publications.papers | size %}
 <section class="hero-section" id="top">
   <div class="hero-copy reveal">
     <span class="eyebrow">Academic Profile</span>
@@ -18,15 +19,21 @@
     {% endif %}
   </div>
 
-  {% if profile.highlights %}
-  <div class="hero-highlights reveal">
-    {% for item in profile.highlights %}
+    {% if profile.highlights %}
+    <div class="hero-highlights reveal">
+      {% for item in profile.highlights %}
     <div class="hero-stat">
-      <div class="hero-stat-value">{{ item.value }}</div>
+      <div class="hero-stat-value">
+        {% if item.auto == 'publications' %}
+          {{ publication_count }}
+        {% else %}
+          {{ item.value }}
+        {% endif %}
+      </div>
       <div class="hero-stat-label">{{ item.label }}</div>
     </div>
-    {% endfor %}
-  </div>
+      {% endfor %}
+    </div>
   {% endif %}
 </section>
 {% endif %}

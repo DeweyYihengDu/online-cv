@@ -53,6 +53,11 @@
     grid-template-columns: 1fr;
   }
 
+  .section-heading-with-count {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
   .main-wrapper .time,
   .main-wrapper .cert-url {
     width: 100%;

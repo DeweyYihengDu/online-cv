@@ -1,14 +1,18 @@
 {% assign publications = site.data.data.publications %}
 {% if publications %}
+{% assign publication_count = publications.papers | size %}
 <section class="section publications-section" id="publications">
 
-  <h2 class="section-title">
-    <span class="fa-stack fa-xs">
-      <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
-    </span>
-    {{ publications.title }}
-  </h2>
+  <div class="section-heading-with-count">
+    <h2 class="section-title">
+      <span class="fa-stack fa-xs">
+        <i class="fas fa-circle fa-stack-2x"></i>
+        <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+      </span>
+      {{ publications.title }}
+    </h2>
+    <div class="publication-count-badge">{{ publication_count }} publications</div>
+  </div>
 
   {% if publications.intro %}
   <div class="intro">

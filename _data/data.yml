@@ -49,7 +49,7 @@ career-profile:
     - label: Research domains
       value: 5+
     - label: Publications and preprints
-      value: 9+
+      auto: publications
     - label: Programming and analysis
       value: Python, R, Linux
   featured_links:
@@ -184,8 +184,9 @@ publications:
       tag: bioRxiv preprint
 
     - title: "PhyloSOLID: Robust phylogeny reconstruction from single-cell data despite inherent error and sparsity"
+      link: https://www.biorxiv.org/content/10.64898/2026.02.04.703905v1.abstract
       authors: Q. Yang, Y. Liu, J. Yang, X. Wu, Z. Yang, Y. Xia, Y. Zheng, J. Lu, M. Yao, Y. Du
-      conference: bioRxiv preprint. 2026.
+      conference: bioRxiv. 2026.02.04.703905.
       tag: bioRxiv preprint
 
     - title: "Ligand-based prediction of anti-bacterial compounds: Overcoming class imbalance in molecular data"

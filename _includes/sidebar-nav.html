@@ -1,0 +1,10 @@
+<div class="sidebar-nav-container container-block">
+  <h2 class="container-block-title">Navigate</h2>
+  <nav class="sidebar-nav" aria-label="Sidebar navigation">
+    <a class="{% if page.url == '/' %}active{% endif %}" href="{{ '/' | relative_url }}">Home</a>
+    <a class="{% if page.url contains '/experience' %}active{% endif %}" href="{{ '/experience/' | relative_url }}">Experience</a>
+    <a class="{% if page.url contains '/projects' %}active{% endif %}" href="{{ '/projects/' | relative_url }}">Projects</a>
+    <a class="{% if page.url contains '/publications' %}active{% endif %}" href="{{ '/publications/' | relative_url }}">Publications</a>
+    <a class="{% if page.url contains '/skills' %}active{% endif %}" href="{{ '/skills/' | relative_url }}">Skills</a>
+  </nav>
+</div>
