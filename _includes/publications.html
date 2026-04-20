@@ -24,6 +24,7 @@
   <div class="item reveal">
     <div class="publication-card">
       <div class="publication-header">
+        <span class="publication-index">#{{ publication_count | minus: forloop.index0 }}</span>
         {% if publication.tag %}
         <span class="publication-badge">{{ publication.tag }}</span>
         {% endif %}

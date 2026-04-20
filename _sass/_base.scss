@@ -223,6 +223,40 @@ p {
     }
   }
 
+  .sidebar-subnav {
+    margin-top: 18px;
+    padding-top: 18px;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .sidebar-subnav-title {
+    margin: 0 0 12px;
+    color: rgba(255, 255, 255, 0.82);
+    font-family: "Manrope", sans-serif;
+    font-size: 0.88rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .sidebar-subnav-links {
+    display: grid;
+    gap: 8px;
+  }
+
+  .sidebar-subnav-links a {
+    display: block;
+    padding: 8px 2px;
+    color: rgba(255, 255, 255, 0.74);
+    font-size: 0.98rem;
+    font-weight: 600;
+
+    &:hover {
+      color: #fff;
+      transform: translateX(2px);
+    }
+  }
+
   .lang-desc {
     color: rgba(255, 255, 255, 0.62);
   }
@@ -347,7 +381,7 @@ p {
 
   .project-tagline {
     color: #55697b;
-    font-size: 1rem;
+    font-size: 1.08rem;
     line-height: 1.9;
   }
 
@@ -357,6 +391,24 @@ p {
 
   .publication-header {
     margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .publication-index {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 52px;
+    padding: 6px 10px;
+    border-radius: 999px;
+    background: #123246;
+    color: #fff;
+    font-size: 0.92rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
   }
 
   .publication-badge {
@@ -366,7 +418,7 @@ p {
     border-radius: 999px;
     background: rgba(66, 168, 192, 0.14);
     color: #0d6576;
-    font-size: 0.76rem;
+    font-size: 0.84rem;
     font-weight: 800;
     letter-spacing: 0.08em;
     text-transform: uppercase;
@@ -391,12 +443,14 @@ p {
     color: #546879;
     font-weight: 600;
     margin-bottom: 5px;
-    font-size: 1rem;
+    font-size: 1.08rem;
+    line-height: 1.85;
   }
 
   .publication-conference {
     color: #71879c;
-    font-size: 0.98rem;
+    font-size: 1.05rem;
+    line-height: 1.8;
   }
 }
 
@@ -415,6 +469,11 @@ p {
   border-radius: 28px;
   background: rgba(255, 255, 255, 0.88);
   box-shadow: 0 16px 38px rgba(15, 50, 66, 0.08);
+}
+
+.page-nav + .page-hero,
+.page-nav + .home-links-section {
+  margin-top: 0;
 }
 
 .hero-copy {
@@ -599,7 +658,7 @@ p {
   }
 
   .level-title {
-    font-size: 1.04rem;
+    font-size: 1.1rem;
     margin-top: 0;
     margin-bottom: 12px;
     color: #112031;

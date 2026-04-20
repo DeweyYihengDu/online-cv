@@ -7,4 +7,24 @@
     <a class="{% if page.url contains '/publications' %}active{% endif %}" href="{{ '/publications/' | relative_url }}">Publications</a>
     <a class="{% if page.url contains '/skills' %}active{% endif %}" href="{{ '/skills/' | relative_url }}">Skills</a>
   </nav>
+
+  <div class="sidebar-subnav">
+    <h3 class="sidebar-subnav-title">On This Page</h3>
+    <nav class="sidebar-subnav-links" aria-label="Section navigation">
+      {% if page.url == '/' %}
+      <a href="#top">Profile</a>
+      <a href="#education">Education</a>
+      <a href="#experience">Experience</a>
+      {% elsif page.url contains '/experience' %}
+      <a href="#education">Education</a>
+      <a href="#experience">Experience</a>
+      {% elsif page.url contains '/projects' %}
+      <a href="#projects">Projects</a>
+      {% elsif page.url contains '/publications' %}
+      <a href="#publications">Publications</a>
+      {% elsif page.url contains '/skills' %}
+      <a href="#skills">Skills</a>
+      {% endif %}
+    </nav>
+  </div>
 </div>
