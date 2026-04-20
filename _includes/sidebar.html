@@ -1,10 +1,11 @@
 {% assign sidebar = site.data.data.sidebar %}
 <div class="sidebar-wrapper">
+  <div class="sidebar-glow"></div>
 
   <div class="profile-container">
 
     {% if sidebar.avatar %}
-    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
+    <img class="avatar" src="{{ '/assets/images/' | append: sidebar.avatar | relative_url }}" alt="profile picture" />
     {% endif %}
 
     {% if sidebar.name %}
@@ -24,6 +25,16 @@
   {% endif %}
 
   {% include language.html %}
+  {% if sidebar.focus %}
+  <div class="focus-container container-block">
+    <h2 class="container-block-title">{{ sidebar.focus.title }}</h2>
+    <ul class="list-unstyled focus-list">
+      {% for item in sidebar.focus.info %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
   {% include interests.html %}
 
   {% if sidebar.about %}

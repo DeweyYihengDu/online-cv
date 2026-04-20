@@ -1,0 +1,32 @@
+{% assign profile = site.data.data.career-profile %}
+{% if profile %}
+<section class="hero-section" id="top">
+  <div class="hero-copy reveal">
+    <span class="eyebrow">Academic Profile</span>
+    <h1 class="hero-title">{{ site.data.data.sidebar.name }}</h1>
+    <p class="hero-tagline">{{ site.data.data.sidebar.tagline }}</p>
+    <div class="hero-summary">
+      {{ profile.summary | markdownify }}
+    </div>
+
+    {% if profile.featured_links %}
+    <div class="hero-actions">
+      {% for item in profile.featured_links %}
+      <a class="hero-action" href="{{ item.url }}" target="_blank" rel="noreferrer noopener">{{ item.label }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+
+  {% if profile.highlights %}
+  <div class="hero-highlights reveal">
+    {% for item in profile.highlights %}
+    <div class="hero-stat">
+      <div class="hero-stat-value">{{ item.value }}</div>
+      <div class="hero-stat-label">{{ item.label }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</section>
+{% endif %}

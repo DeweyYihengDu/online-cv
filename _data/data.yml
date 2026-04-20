@@ -8,13 +8,24 @@ sidebar:
 
   # Profile information
   name: Yiheng Du
-  tagline: Bioinformatics and Quantitative Biology Researcher
+  tagline: Bioinformatics, Microbiology, and Quantitative Biology Researcher
   avatar: profile.jpg
 
   # Sidebar links
   email: biology.yiheng.du@gmail.com
   website: sites.google.com/view/yihengdu/home
   github: DeweyYihengDu
+  google_scholar: https://scholar.google.com/citations?user=2Ov4X7sAAAAJ&hl=en
+  orcid: https://orcid.org/0000-0001-9627-3393
+  location: Hangzhou, China
+  focus:
+    title: Focus Areas
+    info:
+      - Bioinformatics
+      - Microbial genomics
+      - Machine learning for biology
+      - Cancer transcriptomics
+      - Research software and data analysis
 
   languages:
     title: Languages
@@ -34,6 +45,22 @@ career-profile:
     application of machine learning in microbiology, cancer and genomic
     expression, as well as the development and use of bioinformatics tools and
     bibliometrics to analyze multiple fields in biology.
+  highlights:
+    - label: Research domains
+      value: 5+
+    - label: Publications and preprints
+      value: 9+
+    - label: Programming and analysis
+      value: Python, R, Linux
+  featured_links:
+    - label: Google Scholar
+      url: https://scholar.google.com/citations?user=2Ov4X7sAAAAJ&hl=en
+    - label: ORCID
+      url: https://orcid.org/0000-0001-9627-3393
+    - label: GitHub
+      url: https://github.com/DeweyYihengDu
+    - label: Previous Site
+      url: https://sites.google.com/view/yihengdu/home
 
 education:
   title: Education
@@ -55,6 +82,26 @@ education:
       time: 2019 - 2023
       details: |
         Major in Biological Science.
+
+experiences:
+  title: Research Experience
+  info:
+    - role: Research Assistant
+      company: Westlake University
+      time: 2025 - Present
+      details: |
+        Contributed to bioinformatics research projects as a research assistant,
+        supporting manuscript development, biological data analysis, and
+        preprint preparation. This work also led to two recent bioRxiv
+        manuscripts connected to my Westlake University research period.
+
+    - role: Research Assistant
+      company: National Microbiology Laboratory, Shandong University
+      time: 2021 - 2023
+      details: |
+        Conducted microorganism isolation and identification, genome analysis,
+        metabolic characterization, phylogenetic analysis, and environmental
+        microbiology experiments for marine and sediment-derived strains.
 
 projects:
   title: Projects
@@ -127,51 +174,62 @@ publications:
     Google Scholar: [Yi-Heng Du](https://scholar.google.com/citations?user=2Ov4X7sAAAAJ&hl=en)
 
     A selected publication list based on the current content of my personal site.
+    My recent Westlake University research assistant work also includes two new
+    bioRxiv preprints.
   papers:
     - title: "Ligand-based prediction of anti-bacterial compounds: Overcoming class imbalance in molecular data"
       link: https://doi.org/10.1016/j.compbiolchem.2025.108778
       authors: Y.-H. Du, K. A. Ahmed, H. S. Mondal, and M. Z. Hossain
       conference: Computational Biology and Chemistry. 2026;120:108778.
+      tag: Journal article
 
     - title: Investigating the Impact of Antibiotics on Environmental Microbiota Through Machine Learning Models
       link: https://pubmed.ncbi.nlm.nih.gov/40150863/
       authors: Y.-H. Du, K. A. Ahmed, M. R. Hasan, and M. Z. Hossain
       conference: IET Systems Biology. 2025;19(1):e70009.
+      tag: Journal article
 
     - title: "Research on wine flavor: A bibliometric and visual analysis (2003-2022)"
       link: https://doi.org/10.1016/j.focha.2024.100717
       authors: Y.-H. Du, Y.-Q. Ye, Z.-P. Hao, X.-Y. Tan, and M.-Q. Ye
       conference: Food Chemistry Advances. 2024.
+      tag: Journal article
 
     - title: Psychromarinibacter sediminicola sp. nov., a novel moderately halophilic, metabolically diverse bacterium isolated from a solar saltern sediment, and comparison between members of family Roseobacteraceae
       link: https://doi.org/10.1007/s00203-023-03672-z
       authors: Y. Wang, J. Liu, Y.-H. Du, J. Xu, Z. Du, and M.-Q. Ye
       conference: Archives of Microbiology. 2023;205(10).
+      tag: Journal article
 
     - title: "Metabolic-Pathway-Presence-Heatmap (MPPH): Constructing phylogenetic trees based on metabolic pathways"
       link: https://doi.org/10.1101/2023.06.27.546232
       authors: Y.-H. Du and J.-H. Mu
       conference: bioRxiv preprint. 2023.
+      tag: bioRxiv preprint
 
     - title: Development and validation of NAD(+) metabolism-related gene signature in prognosis prediction of hepatocellular carcinoma
       link: https://doi.org/10.1101/2023.06.25.546472
       authors: Y.-H. Du
       conference: bioRxiv preprint. 2023.
+      tag: bioRxiv preprint
 
     - title: "Commentary: Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer"
       link: https://doi.org/10.3389/fonc.2023.1159828
       authors: Y.-H. Du
       conference: Frontiers in Oncology. 2023;13.
+      tag: Commentary
 
     - title: "Analyzing and mapping the research status, hotspots, and frontiers of biological wound dressings: An in-depth data-driven assessment"
       link: https://doi.org/10.1016/j.ijpharm.2022.122385
       authors: S. Shen, L. Deng, Y.-H. Du et al.
       conference: International Journal of Pharmaceutics. 2022;629:122385.
+      tag: Journal article
 
     - title: Description and genome analysis of Actobacterium tashihtau gen. nov., sp. nov., a noval denitrifying and carbon-fixing bacterium isolated from marine sediment
       link: https://doi.org/10.21203/rs.3.rs-1633326/v1
       authors: Z. Yu, Y. Jia, Y.-H. Du, Z.-J. Du, and D.-S. Mu
       conference: Research Square preprint. 2022.
+      tag: Preprint
 
 skills:
   title: Skills and Proficiency

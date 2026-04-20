@@ -1,34 +1,76 @@
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   body {
-    padding: 0;
-  }
-
-  .sidebar-wrapper {
-    position: static;
-    width: inherit;
+    padding: 12px;
   }
 
   .wrapper {
     display: block;
+    border-radius: 24px;
+  }
+
+  .sidebar-wrapper .profile-container,
+  .sidebar-wrapper .container-block {
+    padding-left: 22px;
+    padding-right: 22px;
   }
 
   .main-wrapper {
-    padding: 30px;
+    padding: 18px;
   }
 
-  .main-wrapper .time {
+  .main-wrapper .section {
+    padding: 22px 18px;
+    border-radius: 22px;
+  }
+
+  .hero-section {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-copy,
+  .hero-highlights,
+  .section-nav {
+    border-radius: 22px;
+  }
+
+  .hero-copy {
+    padding: 24px 20px;
+  }
+
+  .hero-title {
+    font-size: 2.3rem;
+  }
+
+  .section-nav {
     position: static;
-    display: block;
-    margin-top: 5px;
+    padding: 12px;
   }
 
-  .main-wrapper .upper-row {
-    margin-bottom: 0;
+  .main-wrapper .time,
+  .main-wrapper .cert-url {
+    width: 100%;
+    margin-left: 0;
   }
 }
+
 /* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 991px) {
+  body {
+    padding: 18px;
+  }
+
+  .wrapper {
+    grid-template-columns: 280px minmax(0, 1fr);
+  }
+
+  .main-wrapper {
+    padding: 28px;
+  }
+
+  .hero-section {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -36,23 +78,15 @@
   .skillset .level-title {
     display: inline-block;
     float: left;
-    width: 30%;
+    width: 34%;
     margin-bottom: 0;
   }
 
   .skillset .level-bar {
     display: inline-block;
-    width: 70%;
+    width: 66%;
     float: left;
     position: relative;
-    top: 1px;
+    top: 4px;
   }
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-}
-
-/* Ex-Large devices (large desktops, 1200px and up) */
-@media (min-width: 1400px) {
 }
