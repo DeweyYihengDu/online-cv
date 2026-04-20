@@ -1,267 +1,199 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output.
+# Update all the sections by editing this file.
 #
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: False
+  education: False
 
-    # Profile information
-    name: Yiheng Du (Dewey)
-    tagline: Master of Quantitative Biology and Bioinformatics
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Yiheng Du
+  tagline: Bioinformatics and Quantitative Biology Researcher
+  avatar: profile.jpg
 
-    # Sidebar links
-    email: yiheng.du@anu.edu.au
-    phone: 0469314204
-    timezone: Australia/Canberra Timezone
-    citizenship:
-    # website: blog.webjeda.com #do not add http://
-    # linkedin: alandoe
-    # xing: alandoe
-    github: DeweyYihengDu
-    # telegram: # add your nickname without '@' sign
-    # gitlab:
-    # bitbucket:
-    # twitter: '@BuddhaSided'
-    # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
-    # goodreads: # Number-Username, e.g. 123456-alandoe
-    # pdf: http://www.africau.edu/images/default/sample.pdf
+  # Sidebar links
+  email: biology.yiheng.du@gmail.com
+  website: sites.google.com/view/yihengdu/home
+  github: DeweyYihengDu
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Professional
-
-        - idiom: Chinese
-          level: Native
-
-        # - idiom: Spanish
-        #   level: Professional
-
-    # interests:
-    #   title: Interests
-    #   info:
-    #     - item: Climbing
-    #       link:
-
-    #     - item: Snowboarding
-    #       link:
-
-    #     - item: Cooking
-    #       link:
-
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
-education:
-    title: Education
+  languages:
+    title: Languages
     info:
-      - degree: Bachelor of Biology
-        university: Shandong University
-        time: 2019 - 2023
-        GPA: 84.5/100
-        # details: |
-        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #   pretium quis, sem.
-        #     - Bullet point
-        #     - Bullet point
-      - degree: Bachelor of Science
-        university: Australian National University
-        time: 2022 - 2023
-        GPA: 5.8-6.0/7
-        details: Collaborative education program between Shandong University and Australian National University
-        awards: Dean’s International Science Excellence Scholarship
-        Got the HD in the following courses: MATH3353 - Advanced Mathematical Bioinformatics AND STAT6038 - Regression Modelling
-        
-      - degree: Master of Quantitative Biology and Bioinformatics
-        university: Australian National University
-        time: 2023-now
-        GPA: 6.33/7
-        # details: |
-        #   Describe your study here lorem ipsum dolor sit amet, consectetuer
-        #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        #   sociis natoque penatibus et magnis dis parturient montes, nascetur
-        #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        #   pretium quis, sem.
-        #     - Bullet point
-        #     - Bullet point
+      - idiom: English
+        level: Professional
 
+      - idiom: Chinese
+        level: Native
 
-certifications:
-      title: Education
-      list:
-        - name: Bachelor of Biology
-          start: 2019
-          end: 2023
-          organization: Shandong University
-          # credentialid: 111-222
-          # credentialurl: www.google.com
-          # credentialname: Google
-          details: |
-            The GPA is 84.7/100.
-        - name: Bachelor of Science
-          start: 2022
-          end: 2023
-          organization: Australian National University
-          # credentialid: 111-222
-          # credentialurl: www.github.com
-          # credentialname: Github
-          
-          details: |
-            During my academic journey, the GPA is **6/7**. 
-            I had the privilege of participating in a collaborative education program between Shandong University and the Australian National University, 
-            which provided me with a diverse and enriching learning experience. 
-            And I was honored to receive the **Dean's International Science Excellence Scholarship**. 
-            Furthermore, I excelled in the courses MATH3353 - **Advanced Mathematical Bioinformatics**,COMP6730 - **Programming for Scientists**,and STAT6038 - **Regression Modelling**, earning the HD in these subjects. 
-            These accomplishments reflect my dedication to academic excellence and my ability to excel in challenging coursework.
-        - name: Master of Quantitative Biology and Bioinformatics
-          start: 2023
-          end: 
-          organization: Australian National University
-          details: |
-            Until now, the GPA is **6.5/7**. 
-        
+career-profile:
+  title: Research Profile
+  summary: |
+    My main area of research is the application of bioinformatics. The primary
+    areas I am involved in include the isolation and identification of
+    microorganisms, the annotation analysis of environmental microorganisms, the
+    application of machine learning in microbiology, cancer and genomic
+    expression, as well as the development and use of bioinformatics tools and
+    bibliometrics to analyze multiple fields in biology.
+
+education:
+  title: Education
+  info:
+    - degree: Master of Science
+      university: Australian National University
+      time: 2023 - Present
+      details: |
+        Major in Quantitative Biology and Bioinformatics.
+
+    - degree: Bachelor of Science
+      university: Australian National University
+      time: 2022 - 2023
+      details: |
+        Major in Quantitative Biology. Minor in Biology and Mathematics.
+
+    - degree: Bachelor of Science
+      university: Shandong University
+      time: 2019 - 2023
+      details: |
+        Major in Biological Science.
+
 projects:
-    title: Projects
-    intro: >
-      Motivated and dedicated research professional with a background in microbiology and bioinformatics. 
-      Experienced in conducting diverse projects at Shandong University, specializing in microbiological experiments, 
-      bioinformatics research on wine flavor, bioinformatics in cancer studies, and microbial genome prediction in PVC superphylum habitats.
-    assignments:
-      - title: Investigating the Impact of Antibiotics on Environmental Microbiota Through Machine Learning (In progress)
-        link: "https://github.com/DeweyYihengDu/ML_soil_bacteria"
-        tagline: "By analyzing data, developing predictive models, 
-        and identifying influential factors in antibiotic-microbe interactions, 
-        this research will contribute valuable insights to enhance antibiotic management practices and safeguard environmental health. 
-        The project's multidimensional approach spans data acquisition, 
-        machine learning, feature analysis, and metagenomic processing, 
-        culminating in a comprehensive assessment of antibiotic impacts on the microbial ecosystem."
+  title: Projects
+  intro: >
+    Selected research and technical projects spanning bioinformatics,
+    microbiology, bibliometrics, and machine learning applications in biology.
+  assignments:
+    - title: Predicting the Impact of Antibiotics on Bacteria Using AI
+      tagline: >
+        Project title: Predicting the Impact of Chemical Structures of Various
+        Organic Compounds on Acinetobacter baumannii Activity Using Machine
+        Learning. Supervised by Dr. Md Zakir Hossain at the Australian National
+        University. Employed machine learning methods to predict inhibitory
+        effects, extracted features from ChEMBL chemical structures, encoded
+        atoms and bonds, and built graph-based models using Python on a remote
+        Linux server with R for visualization.
 
-      - title: PVC Superphylum Microbial Genomics (In progress)
-        link: "https://github.com/DeweyYihengDu/PVC"
-        tagline: "Predicted microbial genes and their ecological niches in PVC superphylum habitats using bioinformatics approaches."
+    - title: Research on PVC Superphylum
+      tagline: >
+        Project title: Ecological Analysis of the PVC Superphylum in
+        Environmental Microorganisms. Focused on Verrucomicrobia in marine
+        sediments, integrating and annotating genes, assembling MAG fragments,
+        and analyzing bacterial interaction networks using Linux tools, Python,
+        and R.
 
-      - title: Microbiological Experiment
-        link: "https://www.researchsquare.com/article/rs-1633326/v1"
-        tagline: "Investigated the effects of different environmental factors on microbial growth and metabolism, analyzing the results using statistical methods."
+    - title: Machine Learning in Microbiology
+      tagline: >
+        Project title: Investigating the Impact of Antibiotics on Environmental
+        Microbiota Through Machine Learning. Analyzed 16S rRNA sequences from
+        BioProject PRJNA576637, generated OTU tables, and developed predictive
+        models for treatment effects, dominant bacterial classes, and stabilized
+        community structure.
 
-      - title: Wine Flavor Bioinformatics Study
-        # link: "#"
-        tagline: "The project is published in the journal Food Chemistry. Currently in the review stage."
+    - title: Microbial Wet Lab Experiments
+      tagline: >
+        Project title: Isolation and Identification of Marine Environmental
+        Microorganisms. Worked as a research assistant at the National
+        Microbiology Laboratory of Shandong University, isolating previously
+        undiscovered microorganisms and identifying species through phylogenetic
+        analysis, growth-condition testing, metabolic characterization, and
+        antibiotic sensitivity assessment.
 
-      - title: Bioinformatics in Cancer Research
-        link: "https://www.biorxiv.org/content/10.1101/2023.06.25.546472v1"
-        tagline: "Examined genomic data from cancer patients to identify genetic mutations, gene expression patterns, and potential therapeutic targets."
+    - title: Bibliometric Analysis of Wine Flavor
+      tagline: >
+        Project title: Research on Wine Flavor: A Bibliometric and Visual
+        Analysis (2003-2022). Reviewed around 4,000 articles, analyzed
+        collaborations among authors, countries, and institutions, summarized
+        research trends, predicted publication volume with a Markov chain model,
+        and used Python, R, CiteSpace, and VOSviewer for analysis.
 
-      - title: Create the method to build the phylogenetic tree with the pathway
-        link: "https://www.biorxiv.org/content/10.1101/2023.06.27.546232v1"
-        tagline: "Heat maps and phylogenetic trees were constructed from the KEGG database. The input data requires only the taxonomic name of the bacteria."
+    - title: Applications of Machine Learning in Liver Cancer
+      tagline: >
+        Project title: Development and Validation of NAD(+) Metabolism-Related
+        Gene Signature in Prognosis Prediction of Hepatocellular Carcinoma.
+        Built a prognostic scoring model using TCGA and MSigDB resources,
+        applied LASSO regression, and performed immune-function and drug
+        sensitivity analyses in R.
 
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    - title: Construction of Simple Bioinformatics Tools
+      tagline: >
+        Project title: Metabolic-Pathway-Presence-Heatmap (MPPH): Constructing
+        Phylogenetic Trees Based on Metabolic Pathways. Developed a Python
+        program that queries the KEGG API, gathers metabolic pathway data for
+        bacterial taxa, and constructs UPGMA phylogenetic trees from pathway
+        presence and absence patterns.
 
 publications:
-    title: Publications
-    intro: |
-      Only can be found on the internet, not including the papers in the review stage.
-      
-      [**ORCID: 0000-0001-9627-3393**](https://orcid.org/0000-0001-9627-3393)
+  title: Publications
+  intro: |
+    Google Scholar: [Yi-Heng Du](https://scholar.google.com/citations?user=2Ov4X7sAAAAJ&hl=en)
 
-      [**Google Scholar Yiheng Du**](https://scholar.google.com/citations?user=2Ov4X7sAAAAJ&hl=en)
-    
-    papers:
+    A selected publication list based on the current content of my personal site.
+  papers:
+    - title: "Ligand-based prediction of anti-bacterial compounds: Overcoming class imbalance in molecular data"
+      link: https://doi.org/10.1016/j.compbiolchem.2025.108778
+      authors: Y.-H. Du, K. A. Ahmed, H. S. Mondal, and M. Z. Hossain
+      conference: Computational Biology and Chemistry. 2026;120:108778.
 
-      - title: “Commentary Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer A Commentary on Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer,” Front. Oncol, vol. 13, no. 1159828, Jul. 2023
-        link: "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2023.1159828/full"
-        authors: Y.-H. Du
+    - title: Investigating the Impact of Antibiotics on Environmental Microbiota Through Machine Learning Models
+      link: https://pubmed.ncbi.nlm.nih.gov/40150863/
+      authors: Y.-H. Du, K. A. Ahmed, M. R. Hasan, and M. Z. Hossain
+      conference: IET Systems Biology. 2025;19(1):e70009.
 
-      - title: “Metabolic-Pathway-Presence-Heatmap (MPPH):Constructing phylogenetic trees based on metabolic pathways.,” Jun. 2023
-        link: "https://doi.org/10.1101/2023.06.27.546232"
-        authors: Y.-H. Du and J.-H. Mu
+    - title: "Research on wine flavor: A bibliometric and visual analysis (2003-2022)"
+      link: https://doi.org/10.1016/j.focha.2024.100717
+      authors: Y.-H. Du, Y.-Q. Ye, Z.-P. Hao, X.-Y. Tan, and M.-Q. Ye
+      conference: Food Chemistry Advances. 2024.
 
-      - title: “Development and validation of NAD(+) metabolism-related gene signature in prognosis prediction of hepatocellular carcinoma,” Jun. 2023
-        link: "https://doi.org/10.1101/2023.06.25.546472"
-        authors: Y.-H. Du
+    - title: Psychromarinibacter sediminicola sp. nov., a novel moderately halophilic, metabolically diverse bacterium isolated from a solar saltern sediment, and comparison between members of family Roseobacteraceae
+      link: https://doi.org/10.1007/s00203-023-03672-z
+      authors: Y. Wang, J. Liu, Y.-H. Du, J. Xu, Z. Du, and M.-Q. Ye
+      conference: Archives of Microbiology. 2023;205(10).
 
-      - title: “Description and genome analysis of Actobacterium tashihtau gen. nov., sp. nov., a noval Denitrifying and Carbon-fixing bacterium isolated from marine sediment,” May 2022
-        link: "https://doi.org/10.21203/rs.3.rs-1633326/v1"
-        authors: Z. Yu, Y. Jia, Y.-H. Du, Z.-J. Du, and D.-S. Mu
+    - title: "Metabolic-Pathway-Presence-Heatmap (MPPH): Constructing phylogenetic trees based on metabolic pathways"
+      link: https://doi.org/10.1101/2023.06.27.546232
+      authors: Y.-H. Du and J.-H. Mu
+      conference: bioRxiv preprint. 2023.
 
-      - title: “Analyzing and mapping the research status, hotspots, and frontiers of biological wound dressings An in-depth data-driven assessment,” International Journal of Pharmaceutics, vol. 629, p. 122385, Dec. 2022
-        link: "https://www.sciencedirect.com/science/article/pii/S0378517322009401?via%3Dihub"
-        authors: S. Shen, L. Deng, Y.-H. Du et al.
+    - title: Development and validation of NAD(+) metabolism-related gene signature in prognosis prediction of hepatocellular carcinoma
+      link: https://doi.org/10.1101/2023.06.25.546472
+      authors: Y.-H. Du
+      conference: bioRxiv preprint. 2023.
 
-      - title: “Psychromarinibacter sediminicola sp. nov., a novel salt-tolerant, metabolically diverse bacterium isolated from a solar saltern sediment, and comparison between members of family Roseobacteraceae,” May 2023
-        link: "https://doi.org/10.21203/rs.3.rs-2898458/v1"
-        authors: Y.-H. Wang, J.-C. Liu, Y.-H. Du, J.-H. Xu, Z.-J. Du, and M.-Q. Ye
+    - title: "Commentary: Development and validation of cuproptosis-related gene signature in the prognostic prediction of liver cancer"
+      link: https://doi.org/10.3389/fonc.2023.1159828
+      authors: Y.-H. Du
+      conference: Frontiers in Oncology. 2023;13.
 
-      # - title: The Art of Computer Programming
-      #   link: "#"
-      #   authors: Donald E. Knuth
-      #   conference: Addison-Wesley, 1968
+    - title: "Analyzing and mapping the research status, hotspots, and frontiers of biological wound dressings: An in-depth data-driven assessment"
+      link: https://doi.org/10.1016/j.ijpharm.2022.122385
+      authors: S. Shen, L. Deng, Y.-H. Du et al.
+      conference: International Journal of Pharmaceutics. 2022;629:122385.
 
-      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      #   link: "#"
-      #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      # - title: A syntax directed compiler for Algol 60
-      #   link: "#"
-      #   authors: Edgar T. Irons
-      #   conference: "Comm. ACM 4 (1961), 51–55"
+    - title: Description and genome analysis of Actobacterium tashihtau gen. nov., sp. nov., a noval denitrifying and carbon-fixing bacterium isolated from marine sediment
+      link: https://doi.org/10.21203/rs.3.rs-1633326/v1
+      authors: Z. Yu, Y. Jia, Y.-H. Du, Z.-J. Du, and D.-S. Mu
+      conference: Research Square preprint. 2022.
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills and Proficiency
+  toolset:
+    - name: Python
+      level: 92%
 
-    toolset:
-      - name: Python
-        level: 91%
+    - name: R
+      level: 86%
 
-      - name: R
-        level: 86%
+    - name: Bioinformatics Analysis
+      level: 88%
 
-      - name: Linux
-        level: 50%
+    - name: Linux
+      level: 72%
 
-      - name: Matlab
-        level: 30%
+    - name: Machine Learning
+      level: 85%
 
-      - name: HTML5 & CSS
-        level: 25%
-
-      # - name: Ruby on Rails
-      #   level: 85%
-
-      # - name: Sketch & Photoshop
-      #   level: 60%
+    - name: Microbiology Research
+      level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="https://github.com/DeweyYihengDu" target="_blank" rel="nofollow">Yiheng Du</a>
+  Designed with <i class="fas fa-heart"></i> by
+  <a href="https://github.com/DeweyYihengDu" target="_blank" rel="nofollow">Yiheng Du</a>
