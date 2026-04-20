@@ -1,0 +1,16 @@
+---
+layout: default
+permalink: /experience/
+page_title: Experience and Education
+page_eyebrow: Academic Background
+page_intro: Research roles, academic training, and the context behind my current work in bioinformatics and quantitative biology.
+---
+
+{% include page-nav.html %}
+{% include page-hero.html %}
+
+{% unless site.data.data.sidebar.education %}
+  {% include education.html %}
+{% endunless %}
+
+{% include experiences.html %}

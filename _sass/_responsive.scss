@@ -2,6 +2,7 @@
 @media (max-width: 767px) {
   body {
     padding: 12px;
+    font-size: 16px;
   }
 
   .wrapper {
@@ -30,7 +31,8 @@
 
   .hero-copy,
   .hero-highlights,
-  .section-nav {
+  .page-nav,
+  .page-hero {
     border-radius: 22px;
   }
 
@@ -42,9 +44,13 @@
     font-size: 2.3rem;
   }
 
-  .section-nav {
+  .page-nav {
     position: static;
     padding: 12px;
+  }
+
+  .home-links-grid {
+    grid-template-columns: 1fr;
   }
 
   .main-wrapper .time,
@@ -69,6 +75,10 @@
   }
 
   .hero-section {
+    grid-template-columns: 1fr;
+  }
+
+  .home-links-grid {
     grid-template-columns: 1fr;
   }
 }

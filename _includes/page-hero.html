@@ -1,0 +1,9 @@
+{% if page.page_title %}
+<section class="page-hero reveal">
+  <span class="eyebrow">{{ page.page_eyebrow | default: "Academic Profile" }}</span>
+  <h1 class="page-hero-title">{{ page.page_title }}</h1>
+  {% if page.page_intro %}
+  <p class="page-hero-intro">{{ page.page_intro }}</p>
+  {% endif %}
+</section>
+{% endif %}
